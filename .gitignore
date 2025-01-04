@@ -1,0 +1,14 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore dataset (optional, if it's large)
+dataset/
+
+# Ignore model training
+Wheat Classifier model training.ipynb
+
+# Ignore Version 1 of training
+version 1/
