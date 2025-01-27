@@ -41,7 +41,7 @@ To set up the project locally, follow these steps:
    cd <repository-folder>
    ```
 
-2. Create a virtual environment (optional but recommended):
+2. Create a virtual environment (optional but recommended), the python version should be 3.10.0:
    ```bash
    python3 -m venv env
    source env/bin/activate # For Linux/Mac
