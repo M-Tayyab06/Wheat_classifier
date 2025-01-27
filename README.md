@@ -10,7 +10,6 @@ This repository contains a Flask-based Streamlit application for classifying whe
 4. [Running the Application](#running-the-application)
 5. [Usage](#usage)
 6. [Model Details](#model-details)
-7. [Acknowledgments](#acknowledgments)
 
 ## Project Overview
 
@@ -79,11 +78,6 @@ The CNN model has been trained on a dataset of wheat images to classify them int
 - **Unknown Disease**: Wheat showing symptoms not classified as Normal or Fusarium.
 
 The model has been saved in both `.h5` and `.keras` formats to ensure compatibility with various frameworks.
-
-## Acknowledgments
-
-Special thanks to the developers and contributors of the libraries used in this project. The application and model rely on technologies like TensorFlow, Keras, and Streamlit.
----
 
 Feel free to contribute to the project by submitting issues or pull requests. Happy coding!
 
