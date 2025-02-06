@@ -1,6 +1,6 @@
 # Wheat Disease Classification using CNN
 
-This repository contains a Flask-based Streamlit application for classifying wheat diseases using a pre-trained Convolutional Neural Network (CNN). The model can predict three classes: **Normal**, **Fusarium**, and **Unknown Disease**, based on images or videos provided by the user.
+This repository contains a Flask-based Streamlit application for classifying wheat diseases using a custom-trained Convolutional Neural Network (CNN). The model can predict three classes: **Normal**, **Fusarium**, and **Unknown Disease**, based on images or videos provided by the user.
 
 ## Table of Contents
 
@@ -68,7 +68,7 @@ This will start a local Streamlit server and provide a URL to access the applica
    - **Normal**
    - **Fusarium**
    - **Unknown Disease**
-4. View the results and predictions in real time.
+4. View the results and predictions in real-time.
 
 ## Model Details
 
