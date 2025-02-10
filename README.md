@@ -27,7 +27,7 @@ The repository contains the following files:
 1. **`.gitignore`**: Specifies files and directories to be ignored by Git.
 2. **`best_wheat_classification_model.h5`**: Saved model file in H5 format.
 3. **`best_wheat_classification_model.keras`**: Saved model file in Keras format.
-4. **`owl.py`**: The main Streamlit application file.
+4. **`app.py`**: The main Streamlit application file.
 5. **`requirements.txt`**: Contains the Python dependencies required to run the application.
 
 ## Installation and Setup
@@ -56,7 +56,7 @@ To set up the project locally, follow these steps:
 
 To launch the application, use the following command:
 ```bash
-streamlit run owl.py
+streamlit run app.py
 ```
 This will start a local Streamlit server and provide a URL to access the application in your browser.
 
