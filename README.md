@@ -1,3 +1,13 @@
+# Wheat Classifier
+
+![License](https://img.shields.io/github/license/M-Tayyab06/Wheat_classifier?color=blue)
+![Stars](https://img.shields.io/github/stars/M-Tayyab06/Wheat_classifier?style=social)
+![Issues](https://img.shields.io/github/issues/M-Tayyab06/Wheat_classifier)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Wheat_Classifier-yellowgreen?logo=ai)
+
+
 # Wheat Disease Classification using CNN
 
 This repository contains a Flask-based Streamlit application for classifying wheat diseases using a custom-trained Convolutional Neural Network (CNN). The model can predict three classes: **Normal**, **Fusarium**, and **Unknown Disease**, based on images or videos provided by the user.
